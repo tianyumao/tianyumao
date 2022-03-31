@@ -17,3 +17,5 @@ else:
     print("输入格式错误。")
 
 print("Hello World")
+
+print("Hello World")
